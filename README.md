@@ -1,2 +1,2 @@
 # Assessment-02
-https://github.com/taniarahm/Assessment-02.git
+https://taniarahm.github.io/Assessment-02/
